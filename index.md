@@ -8,3 +8,6 @@ layout: default
 
 
 {% include footer.html %}
+
+<img src="images/philly-magic-garden.png" alt="Philadelphia's Magic Gar\
+2 dens. This place was so cool!" title="Philadelphia's Magic Gardens" />
