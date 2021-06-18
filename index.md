@@ -9,4 +9,4 @@ layout: default
 
 {% include footer.html %}
 
-<img src="images/hacker.png" alt="Philadelphia's Magic Gardens. This place was so cool!" title="Philadelphia's Magic Gardens" />
+<img src="images/hacker.png" alt="" title="" />
