@@ -1,6 +1,6 @@
 ---
 title: About
-layout: default
+layout: minimal 
 ---
 
 <h1>{{ page.title }}</h1>
