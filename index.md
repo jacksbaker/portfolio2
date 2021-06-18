@@ -9,4 +9,4 @@ layout: default
 
 {% include footer.html %}
 
-<img src="images/hacker.png" alt="" title="" />
+<img src="images/hacker.jpg" alt="" title="" />
